@@ -1,0 +1,91 @@
+{
+  "property_info": {
+    "property_id": "PROP001",
+    "location": "Bengaluru, Karnataka",
+    "annual_usage_kwh": 12500.0,
+    "system_efficiency": 0.95,
+    "electricity_rate_per_kwh": 0.15
+  },
+  "financial_summary": {
+    "system_cost": 25000.0,
+    "available_incentives": 5000.0,
+    "net_investment": 20000.0,
+    "estimated_annual_savings": 1781.25
+  },
+  "roi_metrics": {
+    "breakeven_years": 11.58,
+    "breakeven_months": 139,
+    "roi_5_years": 0,
+    "roi_10_years": 0,
+    "roi_25_years": 203.63,
+    "cumulative_savings_25yr": 60725.45
+  },
+  "breakeven_analysis": {
+    "summary": {
+      "payback_period_months": 121,
+      "payback_period_years": 10.08,
+      "breakeven_month": 1,
+      "breakeven_year": 11,
+      "average_monthly_savings": 165.29
+    },
+    "timeline": {
+      "investment_required": 20000.0,
+      "cumulative_at_breakeven": 20132.03,
+      "months_to_roi_positive": 121,
+      "year_roi_positive": 11
+    },
+    "analysis": {
+      "degradation_impact": "0.5% annually",
+      "inflation_considered": "3.0% annually",
+      "calculation_period": "25 years"
+    }
+  },
+  "yearly_breakdown": [
+    {
+      "year": 1,
+      "annual_savings": 1781.25,
+      "cumulative_savings": 1781.25,
+      "net_benefit": -18218.75,
+      "roi_percentage": 0,
+      "breakeven_reached": false
+    },
+    {
+      "year": 2,
+      "annual_savings": 1825.51,
+      "cumulative_savings": 3606.76,
+      "net_benefit": -16393.24,
+      "roi_percentage": 0,
+      "breakeven_reached": false
+    },
+    {
+      "year": 3,
+      "annual_savings": 1870.88,
+      "cumulative_savings": 5477.64,
+      "net_benefit": -14522.36,
+      "roi_percentage": 0,
+      "breakeven_reached": false
+    },
+    {
+      "year": 4,
+      "annual_savings": 1917.37,
+      "cumulative_savings": 7395.01,
+      "net_benefit": -12604.99,
+      "roi_percentage": 0,
+      "breakeven_reached": false
+    },
+    {
+      "year": 5,
+      "annual_savings": 1965.02,
+      "cumulative_savings": 9360.03,
+      "net_benefit": -10639.97,
+      "roi_percentage": 0,
+      "breakeven_reached": false
+    }
+  ],
+  "policy_insights": {
+    "status": "Analysis completed",
+    "query": "What solar incentives and tax credits are available? What are the requirements for Bengaluru, Karnataka?",
+    "insights": "Error: Connection error.",
+    "sources": []
+  }
+}
